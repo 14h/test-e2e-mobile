@@ -1,0 +1,9 @@
+{
+  "spec_dir": ".",
+  "spec_files": [
+    "pending.spec.js"
+  ],
+  "helpers": [
+    "helpers/**/*.js"
+  ]
+}
